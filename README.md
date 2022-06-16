@@ -26,7 +26,9 @@ After inputting 'in the beginning', Bible verses that contained this search term
 ![image](https://user-images.githubusercontent.com/62003762/174079250-f1e141d5-f676-4303-a03d-2f509846fee7.png)
 
 # Dependency Injection
+Here is an example of Dependency Injection in one of the controller classes. IBibleDataService is set as a parameter as dataService. It was then set equal to repository.
 
+![image](https://user-images.githubusercontent.com/62003762/174082921-b94e8faa-1ad1-4972-a8f4-4df01e966571.png)
 
 # Logging
 A class, MyLogger, was created to implement methods from an interface, ILogger. This allows the application to effectively log data.
