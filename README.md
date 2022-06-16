@@ -24,3 +24,15 @@ This allows the user to search for specific verses with key words.
 After inputting 'in the beginning', Bible verses that contained this search term were displayed in a table.
 
 ![image](https://user-images.githubusercontent.com/62003762/174079250-f1e141d5-f676-4303-a03d-2f509846fee7.png)
+
+# Dependency Injection
+
+
+# Logging
+A class, MyLogger, was created to implement methods from an interface, ILogger. This allows the application to effectively log data.
+
+![image](https://user-images.githubusercontent.com/62003762/174082174-54694e68-a9af-4f19-836c-f224f0989aec.png)
+
+Whenever the user performs an action, such as viewing all verses or creating a new verse, it is logged to an external text document.
+
+![image](https://user-images.githubusercontent.com/62003762/174081952-892fa030-8bfb-4ad5-a137-de97aab7571c.png)
