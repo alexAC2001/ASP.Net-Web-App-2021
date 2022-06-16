@@ -43,5 +43,3 @@ A class, MyLogger, was created to implement methods from an interface, ILogger. 
 Whenever the user performs an action, such as viewing all verses or creating a new verse, it is logged to an external text document.
 
 ![image](https://user-images.githubusercontent.com/62003762/174081952-892fa030-8bfb-4ad5-a137-de97aab7571c.png)
-
-# Diagrams
