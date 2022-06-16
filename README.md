@@ -11,7 +11,7 @@ All verses from the Bible are stored in SQL Server and can be accessed by the us
 
 # Create New Verse
 The user can also add new verses. This was implemented to show that data can be inserted into the SQL Server database.
-![image](https://user-images.githubusercontent.com/62003762/174078447-f2788c4c-da78-43b7-93f5-72d9710ba5dc.png)
+![image](https://user-images.githubusercontent.com/62003762/174079410-0dde861e-cdf2-4c6b-9607-397a7c1a0976.png)
 
 # Search
 This allows the user to search for specific verses with key words.
