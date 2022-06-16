@@ -18,4 +18,4 @@ This allows the user to search for specific verses with key words.
 ![image](https://user-images.githubusercontent.com/62003762/174078551-c38b35e0-1677-4a61-a6a0-12342fed60c1.png)
 
 After inputting 'in the beginning', Bible verses that contained this search term were displayed in a table.
-![image](https://user-images.githubusercontent.com/62003762/174079127-61250bc5-a172-4fbd-a318-210cb2f231c3.png)
+![image](https://user-images.githubusercontent.com/62003762/174079250-f1e141d5-f676-4303-a03d-2f509846fee7.png)
