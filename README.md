@@ -30,6 +30,11 @@ Here is an example of Dependency Injection in one of the controller classes. IBi
 
 ![image](https://user-images.githubusercontent.com/62003762/174082921-b94e8faa-1ad1-4972-a8f4-4df01e966571.png)
 
+# Data Access Object
+BibleVerseDAO was the data access object class used to implement methods that persisted data to and from the SQL Server database. Here is code snippet within the GetAllVerses() method. This contains a select SQL statement to access the database table, dbo.t_asv. The SQL connection is opened so the SqlDataReader class can read the select statement.
+
+![image](https://user-images.githubusercontent.com/62003762/174087576-b83a3266-9145-45e8-ae71-3f9c860ea25a.png)
+
 # Logging
 A class, MyLogger, was created to implement methods from an interface, ILogger. This allows the application to effectively log data.
 
@@ -38,3 +43,5 @@ A class, MyLogger, was created to implement methods from an interface, ILogger. 
 Whenever the user performs an action, such as viewing all verses or creating a new verse, it is logged to an external text document.
 
 ![image](https://user-images.githubusercontent.com/62003762/174081952-892fa030-8bfb-4ad5-a137-de97aab7571c.png)
+
+# Diagrams
